@@ -1,0 +1,11 @@
+EJS Template Engine
+--------------------
+1) Install the EJS
+   npm install ejs --save
+
+2) Configure the EJS with Express
+   app.set('view engine', 'ejs');
+
+3) Create .ejs files
+
+4) response.render('ejs')
